@@ -1,4 +1,4 @@
-# Day 2 Notes — IAM
+# Day 2 Notes - IAM
 
 ## What I Learned
 - IAM controls identity and access in AWS.
